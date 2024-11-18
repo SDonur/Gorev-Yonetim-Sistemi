@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|c:\\users\\hp\\source\\repos\\taskmanagement\\taskmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|c:\\users\\hp\\source\\repos\\taskmanagement\\taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|c:\\users\\hp\\source\\repos\\taskmanagement\\taskmanagement\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|c:\\users\\hp\\source\\repos\\taskmanagement\\taskmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|c:\\users\\hp\\source\\repos\\taskmanagement\\taskmanagement\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|c:\\users\\hp\\source\\repos\\taskmanagement\\taskmanagement\\controllers\\taskmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\controllers\\taskmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|c:\\users\\hp\\source\\repos\\taskmanagement\\taskmanagement\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C3ED949-FEC7-46F9-B230-C86C0011EBCF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:51:11.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "TaskManagement\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "TaskManagement\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T20:06:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\wwwroot\\js\\login.js",
+              "RelativeDocumentMoniker": "TaskManagement\\wwwroot\\js\\login.js",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\wwwroot\\js\\login.js",
+              "RelativeToolTip": "TaskManagement\\wwwroot\\js\\login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-18T20:02:32.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Controllers\\TaskManagementController.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\TaskManagementController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Controllers\\TaskManagementController.cs",
+              "RelativeToolTip": "TaskManagement\\Controllers\\TaskManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:34:56.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Models\\Work.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Models\\Work.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Models\\Work.cs",
+              "RelativeToolTip": "TaskManagement\\Models\\Work.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:09:19.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Models\\User.cs",
+              "RelativeToolTip": "TaskManagement\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:55:21.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeToolTip": "TaskManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:44:54.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
